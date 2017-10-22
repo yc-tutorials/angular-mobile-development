@@ -20,7 +20,7 @@
 
 1. [环境配置](./docs/1.md)
 2. [Typescript 基础](./docs/2.md)
-3. SCSS
+3. [SCSS 基础](./docs/3.md)
 4. 数据绑定与内置指令
 5. @Input与@Output
 6. 四大组件之Component
